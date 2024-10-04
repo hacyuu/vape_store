@@ -1,0 +1,9 @@
+body {
+}
+
+.py-8 {
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
